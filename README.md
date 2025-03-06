@@ -32,8 +32,9 @@
     nano proxy.txt
     ```
 4. Add wallets
-    ```nano wallets.json
-    ```
+    ```sh
+    nano wallets.json
+    
 4. Run the script:
     ```sh
     npm run start
