@@ -20,7 +20,7 @@
 1. Clone the repository:
     ```sh
    git clone https://github.com/SURAJBOSS09/Layeredge-nunu.git
-    cd LedgeBot
+    cd Layeredge-nunu
 
 2. Install the required dependencies:
     ```sh
