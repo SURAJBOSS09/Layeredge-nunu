@@ -7,8 +7,6 @@
 ## Features
 
 - **Auto Run Node**
-- **Auto Create Accounts**
-- **Auto Referrall**
 - **Support Proxy usage**
 - **Auto Claim Points every hour**
 
@@ -19,10 +17,10 @@
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/SURAJBOSS09/Layeredge-nunu.git
     ``
     cd LedgeBot
-    ```
+    ```Layeredge-nunu
 
 2. Install the required dependencies:
     ```sh
@@ -33,9 +31,8 @@
     ```sh
     nano proxy.txt
     ```
-4. Auto Referral / create new wallets
-    ```sh
-    npm run autoref
+4. Add wallets
+    ```nano wallets.json
     ```
 4. Run the script:
     ```sh
