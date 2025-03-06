@@ -2,7 +2,7 @@
 # Layer Edge Auto Ping Node
 
 ![banner](./img/image.png)
-- website : https://dashboard.layeredge.io/
+- 
 
 ## Features
 
@@ -17,10 +17,12 @@
 
 ## Installation
 
-1. Clone the repository:https://github.com/SURAJBOSS09/Layeredge-nunu.git
-    ``
+1. Clone the repository:
+    ```sh
+    https://github.com/SURAJBOSS09/Layeredge-nunu.git
     cd LedgeBot
-    ```Layeredge-nunu
+    ```sh
+    Layeredge-nunu
 
 2. Install the required dependencies:
     ```sh
