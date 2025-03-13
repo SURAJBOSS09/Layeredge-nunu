@@ -17,8 +17,8 @@
 - Clone Repository
 
 ```bash
-git clone https://github.com/Not-D4rkCipherX/Layeredge-X.git
-cd Layeredge-X
+git clone https://github.com/Layeredge-nunu.git
+cd Layeredge-nunu
 npm install
 ```
 
@@ -40,21 +40,8 @@ nano proxy.txt
 nano wallets.json
 ```
 - Insert your Wallet privatekeys in ``wallets.json``,
-- Example =>
-```bash
-[
-    {
-      "address": "adrress here",
-      "privateKey": "privatekey here"
-    },
-    {
-      "address": "adrress_2 here",
-      "privateKey": "privatekey_2 here"
-    }
-  ]
-  ```
-
-- Run the script
+-
+- escript
 
 ```bash
 node main.js or node main-thread.js
